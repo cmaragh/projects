@@ -1,0 +1,7 @@
+{
+  "name": "recipii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
